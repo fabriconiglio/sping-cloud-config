@@ -1,3 +1,6 @@
+server:
+  port: 9990
+
 user:
   login:
     max-attempts: 3

@@ -1,3 +1,6 @@
+server:
+  port: 9999
+
 machine:
   registration:
     service-url: https://www.dnrpa.gov.ar/portal_dnrpa
