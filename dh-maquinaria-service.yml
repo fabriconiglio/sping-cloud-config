@@ -1,0 +1,5 @@
+machine:
+  registration:
+    service-url: https://www.dnrpa.gov.ar/portal_dnrpa
+  catalog:
+    max-quantity: 650

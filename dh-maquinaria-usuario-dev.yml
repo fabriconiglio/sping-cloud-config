@@ -1,0 +1,5 @@
+user:
+  login:
+    max-attempts: 3
+  email:
+    allowed-domains: outlook.com,gmail.com,digitalhouse.com
